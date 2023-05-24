@@ -16,7 +16,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": "/esphome-web/esp32c3/esphome-web-esp32c3.bin",
+          "path": "https://github.com/mrninhvn/RGRDWL0401010001/raw/main/RGRDWL0401010001.bin",
           "offset": 0
         }
       ]
