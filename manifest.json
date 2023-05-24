@@ -1,7 +1,6 @@
  {
-  "name": "ROGO Web",
+  "name": "RGRDWL0401010001 firmware",
   "version": "2023.5.0",
-  "home_assistant_domain": "esphome",
   "new_install_skip_erase": false,
   "builds": [
     {
